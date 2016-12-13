@@ -1,10 +1,10 @@
 package com.mecodegoodsomeday.KaPwing;
 
 public class KVector {
-	float [] m_elt;
-	public KVector() {
-		m_elt = new float[2];
-	}
+    float [] m_elt;
+    public KVector() {
+        m_elt = new float[2];
+    }
 
     public KVector(float dx, float dy) {
         m_elt = new float[2];

@@ -9,6 +9,7 @@ import java.util.Enumeration;
  * User: dylan
  * Date: Nov 3, 2004
  * Time: 2:03:49 PM
+ * License: CC-SA
  */
 public class KPaddleHandler extends KGenericHandler {
     KPoint m_mousePoint1, m_mousePoint2;

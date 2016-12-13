@@ -8,6 +8,7 @@ import java.awt.*;
  * User: dylan
  * Date: Nov 6, 2004
  * Time: 3:07:27 PM
+ * License: CC-SA
  */
 public class KMidiMenu extends KMenu {
     KSoundManager m_soundManager;

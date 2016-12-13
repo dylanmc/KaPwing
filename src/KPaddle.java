@@ -9,6 +9,7 @@ import java.awt.event.MouseEvent;
  * User: dylan
  * Date: Oct 26, 2004
  * Time: 12:12:32 PM
+ * License: CC-SA
  */
 public class KPaddle implements KCollidable, KDrawable, KEditable {
     int x1, y1, x2, y2;

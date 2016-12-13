@@ -8,6 +8,7 @@ import java.awt.event.MouseEvent;
  * User: dylan
  * Date: Nov 3, 2004
  * Time: 9:57:19 PM
+ * License: CC-SA
  */
 public interface KEditHandler {
     public void resetHandler();

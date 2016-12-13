@@ -8,6 +8,7 @@ import java.awt.event.MouseEvent;
  * User: dylan
  * Date: Nov 3, 2004
  * Time: 2:33:03 PM
+ * License: CC-SA
  */
 public class KGenericHandler implements KEditHandler {
     KSpace m_space;

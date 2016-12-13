@@ -9,6 +9,7 @@ import java.util.Enumeration;
  * User: dylan
  * Date: Nov 3, 2004
  * Time: 4:58:48 PM
+ * License: CC-SA
  */
 
 // KEditModeHandler demuxes mouse events sent to it by KSpace to the individual Editable objects' own handlers

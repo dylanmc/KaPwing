@@ -7,7 +7,7 @@ import java.awt.*;
  * User: dylan
  * Date: Oct 26, 2004
  * Time: 12:13:51 PM
- * To change this template use File | Settings | File Templates.
+ * License: CC-SA
  */
 public class KInjector implements KCollidable{
     // check if KBall has collided with us by going from pt1 to pt2

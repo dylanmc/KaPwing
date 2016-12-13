@@ -8,6 +8,7 @@ import java.util.Vector;
  * User: dylan
  * Date: Nov 1, 2004
  * Time: 2:30:36 PM
+ * License: CC-SA
  */
 public class KBallFactory implements KDrawable, KRunnable, KEditable {
     KPoint me;

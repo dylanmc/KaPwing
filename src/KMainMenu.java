@@ -8,6 +8,7 @@ import java.util.Enumeration;
  * User: dylan
  * Date: Nov 3, 2004
  * Time: 11:12:56 AM
+ * License: CC-SA
  */
 
 public class KMainMenu extends KMenu {

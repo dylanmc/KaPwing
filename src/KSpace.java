@@ -11,6 +11,7 @@ import java.awt.event.*;
  * User: dylan
  * Date: Oct 26, 2004
  * Time: 12:14:31 PM
+ * License: CC-SA
  */
 
 public class KSpace implements MouseListener, MouseMotionListener, KeyListener{

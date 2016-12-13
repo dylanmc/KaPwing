@@ -8,6 +8,7 @@ import java.awt.*;
  * User: dylan
  * Date: Nov 5, 2004
  * Time: 9:02:32 AM
+ * License: CC-SA
  */
 
 public class KNoteMenu extends KMenu{

@@ -7,7 +7,7 @@ import java.util.Vector;
  * User: dylan
  * Date: Nov 3, 2004
  * Time: 4:06:22 PM
- * To change this template use File | Settings | File Templates.
+ * License: CC-SA
  */
 public class KStack extends Vector {
 

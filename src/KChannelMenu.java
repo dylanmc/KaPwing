@@ -9,13 +9,13 @@ import java.awt.*;
  * User: dylan
  * Date: Nov 1, 2004
  * Time: 9:13:31 PM
+ * License: CC-SA
  */
 public class KChannelMenu extends KMenu {
     KPaddle m_currPaddle = null;
     KMenuItem m_lastSelected = null;
 
     public void draw(Graphics2D g) {
-        
     }
     public KChannelMenu(KSpace s) {
         m_items = new Vector();

@@ -4,11 +4,11 @@ import java.awt.*;
 import java.util.Vector;
 
 public class KBall implements KDrawable {
-	KPoint m_pos;
+    KPoint m_pos;
     KPoint m_oldPos;
     KPoint m_bouncePos;
     Rectangle m_shape;
-	KVector m_v;    // expressed in pixels per millisecond
+    KVector m_v;    // expressed in pixels per millisecond
     float gravityY = 0.0004f;
     float gravityX = 0f;
     boolean m_bounce = false;
@@ -68,7 +68,7 @@ public class KBall implements KDrawable {
 
     }
 
-	public void draw(Graphics2D g) {
+    public void draw(Graphics2D g) {
         // m_shape.setLocation(m_pos.getXint(), m_pos.getYint());
         //g.draw(m_shape);
         g.setColor(Color.BLACK);
@@ -84,7 +84,7 @@ public class KBall implements KDrawable {
             //        (int)(m_bouncePos.x + m_v.m_elt[0]), (int)(m_bouncePos.y + m_v.m_elt[1]));
         }
         // g.drawString(m_pos.x + "," + m_pos.y, m_pos.x, m_pos.y);
-	}
+    }
 
     public void updateVelocity(long deltat)
     {

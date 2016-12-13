@@ -14,8 +14,8 @@ import java.util.Enumeration;
  * User: dylan
  * Date: Oct 31, 2004
  * Time: 9:28:05 PM
+ * License: CC-SA
  */
-// I am an extroverted, intuitive, thinking, judger entj
 
 public class KSoundManager implements Runnable {
     Vector m_events;

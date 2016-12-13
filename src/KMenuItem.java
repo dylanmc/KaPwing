@@ -14,6 +14,7 @@ import java.text.AttributedString;
  * User: dylan
  * Date: Nov 1, 2004
  * Time: 9:00:48 PM
+ * License: CC-SA
  */
 public class KMenuItem implements KDrawable {
     KPoint me;

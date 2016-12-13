@@ -9,6 +9,7 @@ import java.util.Enumeration;
  * User: dylan
  * Date: Nov 3, 2004
  * Time: 2:53:33 PM
+ * License: CC-SA
  */
 
 public class KDefaultInputHandler extends KGenericHandler {

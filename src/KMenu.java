@@ -10,6 +10,7 @@ import java.awt.*;
  * User: dylan
  * Date: Nov 1, 2004
  * Time: 9:10:55 PM
+ * License: CC-SA
  */
 public class KMenu implements KDrawable {
     // subclass constructors must fill these in:

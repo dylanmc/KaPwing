@@ -7,7 +7,7 @@ import java.awt.*;
  * User: dylan
  * Date: Oct 26, 2004
  * Time: 12:37:03 PM
- * To change this template use File | Settings | File Templates.
+ * License: CC-SA
  */
 public class KaPwing {
     private ScreenManager m_screen;

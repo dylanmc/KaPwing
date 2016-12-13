@@ -10,6 +10,7 @@ import java.util.Enumeration;
  * User: dylan
  * Date: Nov 4, 2004
  * Time: 2:15:37 PM
+ * License: CC-SA
  */
 
 public class KPaddleModifier implements KEditHandler {

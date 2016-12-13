@@ -1,8 +1,8 @@
 package com.mecodegoodsomeday.KaPwing;
 
 public class KPoint {
-	float x;
-	float y;
+    float x;
+    float y;
     public static KPoint ZeroPoint = new KPoint(0,0);
 
     public KPoint(float nx, float ny) {

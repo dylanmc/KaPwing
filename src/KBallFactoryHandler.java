@@ -10,6 +10,7 @@ import java.util.Enumeration;
  * User: dylan
  * Date: Nov 3, 2004
  * Time: 4:39:54 PM
+ * License: CC-SA
  */
 
 public class KBallFactoryHandler extends KGenericHandler {
